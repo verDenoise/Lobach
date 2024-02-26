@@ -1,0 +1,25 @@
+
+main{
+    margin: 15px;
+}
+
+.portfolio_welcome{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3rem;
+}
+
+.portfolio_welcome h1, .portfolio_welcome h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.line{
+    width: auto;
+    margin-bottom: 30px;
+}
+
+.card-text, .card-title{
+    font-size: 1.5rem;
+    background: rgb(136, 136, 136, 0.5);
+}
