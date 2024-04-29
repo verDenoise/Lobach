@@ -1,0 +1,2 @@
+User-agent: * 
+Sitemap: https://verdenoise.github.io/sitemap
